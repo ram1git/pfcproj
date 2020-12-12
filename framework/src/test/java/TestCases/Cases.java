@@ -55,5 +55,9 @@ public void videos(){
 	
 	logg.info(Cases.class.getName()+"videos test is getting executed");
 	
+	System.out.println("hello newly added");
+	
 }
+
+
 }
