@@ -1,0 +1,17 @@
+09/12/2020 11:44:49 INFO  Base:154 - browser closed
+09/12/2020 12:04:15 INFO  Cases:23 - TestCases.Casesconstructor is getting executed
+09/12/2020 12:04:33 INFO  Cases:33 - TestCases.CasesBeforetest is getting executed
+09/12/2020 12:04:33 INFO  EventList:106 - listeners.EventList----[[ChromeDriver: chrome on WINDOWS (de99fbb64c0fa71bcaaec722fcc19606)] -> xpath: //button[normalize-space()='Log In']]beforeClickOn
+09/12/2020 12:04:38 INFO  EventList:106 - listeners.EventList----[[ChromeDriver: chrome on WINDOWS (de99fbb64c0fa71bcaaec722fcc19606)] -> xpath: //img[@alt='Playing for change logo']]beforeClickOn
+09/12/2020 12:04:48 INFO  Cases:48 - TestCases.Casestest1 is getting executed
+09/12/2020 12:04:48 INFO  EventList:106 - listeners.EventList----[[ChromeDriver: chrome on WINDOWS (de99fbb64c0fa71bcaaec722fcc19606)] -> xpath: //a[normalize-space()='Videos']]beforeClickOn
+09/12/2020 12:04:50 INFO  Cases:56 - TestCases.Casesvideos test is getting executed
+09/12/2020 12:04:50 INFO  Base:154 - browser closed
+12/12/2020 09:29:37 INFO  Cases:23 - TestCases.Casesconstructor is getting executed
+12/12/2020 09:31:17 INFO  Cases:33 - TestCases.CasesBeforetest is getting executed
+12/12/2020 09:31:22 INFO  EventList:106 - listeners.EventList----[[ChromeDriver: chrome on WINDOWS (60fa3b9c20bfc7b277006d543d39e14c)] -> xpath: //button[normalize-space()='Log In']]beforeClickOn
+12/12/2020 09:31:27 INFO  EventList:106 - listeners.EventList----[[ChromeDriver: chrome on WINDOWS (60fa3b9c20bfc7b277006d543d39e14c)] -> xpath: //img[@alt='Playing for change logo']]beforeClickOn
+12/12/2020 09:31:40 INFO  Cases:48 - TestCases.Casestest1 is getting executed
+12/12/2020 09:31:40 INFO  EventList:106 - listeners.EventList----[[ChromeDriver: chrome on WINDOWS (60fa3b9c20bfc7b277006d543d39e14c)] -> xpath: //a[normalize-space()='Videos']]beforeClickOn
+12/12/2020 09:31:55 INFO  Cases:56 - TestCases.Casesvideos test is getting executed
+12/12/2020 09:31:55 INFO  Base:154 - browser closed
